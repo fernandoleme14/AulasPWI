@@ -1,0 +1,32 @@
+-> Para texto:
+color: Altera a cor dos caracteres de um texto por meio do sistema de cores RGB. 
+font-size: Define o tamanho de uma família tipológica dos caracteres. 
+font-weight: Define a largura de uma família tipológica dos caracteres.
+text-align: Altera a posição dos textos em suas respectivas linhas. 
+text-decoration: Determina uma formatação de adereço ao texto.
+line-height: Define a altura de uma linha, espaçamento entre as demais. 
+font-style: Destaca e estiliza a fonte dos caracteres em 'Itálico' ou 'Oblíquo', por exemplo. 
+
+-> layout:
+background: Define a alteração de cor, inserção de imagens e seu posicionamento no plano de fundo da página, por exemplo. Geralmente situado em style, com traço e sua chave de propriedade.
+margin: Posiciona o texto horizontalmente na página. 
+padding: Define a distância entre o conteúdo de um texto e suas bordas.
+position: Posiciona detalhadamente o texto na página. Suas chaves de propriedade são: 'Estática', 'Relativa', 'Absoluta' e 'Fixada'
+display: Especifica o tipo de caixa de renderização usada.
+top: Direciona um elemento para cima.
+bottom: Direciona um elemento para baixo.
+left: Direciona um elemento para a esquerda.
+right: Direciona um elemento para a direita.
+height: Define a altura de um elemento.
+width: Define a largura de um elemento. 
+float: Flutua um elemento dentro da página.
+border: Estabelece cor, largura e "estilo" à borda de um elemento.
+
+-> listas:
+list-style: Configura o posicionamento, o tipo e imagens em listas.
+
+-> unidades
+px -> pixels
+pt -> pontos
+% -> porcentagem
+em -> tamanho padrão
